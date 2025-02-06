@@ -1,4 +1,6 @@
-# git-repo
+# Git-repo
+....................................................................
+...................................................................
 Here’s a simple **step-by-step guide** to contribute to an open-source project using GitHub and Git commands:
 
 ---
