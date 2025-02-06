@@ -1,4 +1,3 @@
-# git-repo
 Here’s a simple **step-by-step guide** to contribute to an open-source project using GitHub and Git commands:
 
 ---
@@ -110,5 +109,3 @@ Here’s a simple **step-by-step guide** to contribute to an open-source project
 - Once your PR is merged, your contribution is officially part of the project!
 
 Would you like more details on any specific step?
-
-....
